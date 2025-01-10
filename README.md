@@ -136,6 +136,12 @@ Welcome to the **HTML Tags** repository! This project contains a comprehensive l
 
 This repository includes a Python script to automatically generate the `README.md` file based on the `html_tags.json` file. Ensure that the JSON file is updated with the latest data.
 
+```bash
+$ pip install -r requirements.txt
+$ python crawler.py
+$ python update.py
+````
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

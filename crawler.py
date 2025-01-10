@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import yaml
 
 target_url = "https://www.w3schools.com/tags/default.asp"
 
@@ -31,6 +32,9 @@ if response.status_code == 200:
     with open('html_tags.json', 'w', encoding='utf-8') as json_file:
         json.dump(result, json_file, ensure_ascii=False, indent=4)
 
-    print("JSON file 'html_tags.json' has been successfully created!")
+    with open('html_tags.yaml', 'w', encoding='utf-8') as yaml_file:
+        yaml.dump(result, yaml_file, allow_unicode=True, default_flow_style=False, sort_keys=False)
+
+    print("JSON file 'html_tags.json' and YAML file 'html_tags.yaml' have been successfully created!")
 else:
     print(f"Failed to fetch the page. Status code: {response.status_code}")
