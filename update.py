@@ -1,6 +1,5 @@
 import json
 
-# File paths
 json_file_path = 'html_tags.json'
 readme_format_path = 'README-format.md'
 readme_output_path = 'README.md'
@@ -13,13 +12,20 @@ def read_template(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
+def sanitize_text(text):
+    """Replace '|' with '/' to avoid issues in table formatting."""
+    return text.replace('|', '/')
+
 def generate_table(tags):
     table_header = "| Tag Name      | Brief Description         | Learn More Link                 |\n"
     table_header += "|---------------|---------------------------|---------------------------------|\n"
 
     table_rows = ""
     for tag in tags:
-        table_rows += f"| `{tag['name']}` | {tag['brief']} | [Learn More]({tag['link']}) |\n"
+        name = sanitize_text(tag['name'])
+        brief = sanitize_text(tag['brief'])
+        link = tag['link']
+        table_rows += f"| `{name}` | {brief} | [Learn More]({link}) |\n"
 
     return table_header + table_rows
 
