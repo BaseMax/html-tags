@@ -14,7 +14,12 @@ def read_template(file_path):
 
 def sanitize_text(text):
     """Replace '|' with '/', '\n' with ' ' to avoid issues in table formatting."""
-    return text.replace('|', '\|').replace('\n', ' ')
+    if '<' in text:
+        text = text.replace('<', '&lt;')
+    if '>' in text:
+        text = text.replace('>', '&gt;')
+    return text.replace('|', '\\|').replace('\n', ' ')
+
 
 def generate_table(tags):
     table_header = "| Tag Name      | Brief Description         | Learn More Link                 |\n"
