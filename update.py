@@ -12,12 +12,13 @@ def read_template(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-def sanitize_text(text):
+def sanitize_text(text, isText):
     """Replace '|' with '/', '\n' with ' ' to avoid issues in table formatting."""
-    if '<' in text:
-        text = text.replace('<', '&lt;')
-    if '>' in text:
-        text = text.replace('>', '&gt;')
+    if isText:
+        if '<' in text:
+            text = text.replace('<', '&lt;')
+        if '>' in text:
+            text = text.replace('>', '&gt;')
     return text.replace('|', '\\|').replace('\n', ' ')
 
 
@@ -27,8 +28,8 @@ def generate_table(tags):
 
     table_rows = ""
     for tag in tags:
-        name = sanitize_text(tag['name'])
-        brief = sanitize_text(tag['brief'])
+        name = sanitize_text(tag['name'], False)
+        brief = sanitize_text(tag['brief'], True)
         link = tag['link']
         table_rows += f"| `{name}` | {brief} | [Learn More]({link}) |\n"
 
