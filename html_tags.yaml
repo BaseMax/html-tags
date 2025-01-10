@@ -1,0 +1,374 @@
+- name: <!--...-->
+  link: https://www.w3schools.com/tags/tag_comment.asp
+  brief: Defines a comment
+- name: <!DOCTYPE>
+  link: https://www.w3schools.com/tags/tag_doctype.asp
+  brief: Defines the document type
+- name: <a>
+  link: https://www.w3schools.com/tags/tag_a.asp
+  brief: Defines a hyperlink
+- name: <abbr>
+  link: https://www.w3schools.com/tags/tag_abbr.asp
+  brief: Defines an abbreviation or an acronym
+- name: <acronym>
+  link: https://www.w3schools.com/tags/tag_acronym.asp
+  brief: Not supported in HTML5. Use <abbr> instead.Defines an acronym
+- name: <address>
+  link: https://www.w3schools.com/tags/tag_address.asp
+  brief: Defines contact information for the author/owner of a document
+- name: <applet>
+  link: https://www.w3schools.com/tags/tag_applet.asp
+  brief: Not supported in HTML5. Use <embed> or <object> instead.Defines an embedded
+    applet
+- name: <area>
+  link: https://www.w3schools.com/tags/tag_area.asp
+  brief: Defines an area inside an image map
+- name: <article>
+  link: https://www.w3schools.com/tags/tag_article.asp
+  brief: Defines an article
+- name: <aside>
+  link: https://www.w3schools.com/tags/tag_aside.asp
+  brief: Defines content aside from the page content
+- name: <audio>
+  link: https://www.w3schools.com/tags/tag_audio.asp
+  brief: Defines embedded sound content
+- name: <b>
+  link: https://www.w3schools.com/tags/tag_b.asp
+  brief: Defines bold text
+- name: <base>
+  link: https://www.w3schools.com/tags/tag_base.asp
+  brief: Specifies the base URL/target for all relative URLs in a document
+- name: <basefont>
+  link: https://www.w3schools.com/tags/tag_basefont.asp
+  brief: Not supported in HTML5. Use CSS instead.Specifies a default color, size,
+    and font for all text in a document
+- name: <bdi>
+  link: https://www.w3schools.com/tags/tag_bdi.asp
+  brief: "Isolates a part of text that might be formatted in a different direction\
+    \ \nfrom other text outside it"
+- name: <bdo>
+  link: https://www.w3schools.com/tags/tag_bdo.asp
+  brief: Overrides the current text direction
+- name: <big>
+  link: https://www.w3schools.com/tags/tag_big.asp
+  brief: Not supported in HTML5. Use CSS instead.Defines big text
+- name: <blockquote>
+  link: https://www.w3schools.com/tags/tag_blockquote.asp
+  brief: Defines a section that is quoted from another source
+- name: <body>
+  link: https://www.w3schools.com/tags/tag_body.asp
+  brief: Defines the document's body
+- name: <br>
+  link: https://www.w3schools.com/tags/tag_br.asp
+  brief: Defines a single line break
+- name: <button>
+  link: https://www.w3schools.com/tags/tag_button.asp
+  brief: Defines a clickable button
+- name: <canvas>
+  link: https://www.w3schools.com/tags/tag_canvas.asp
+  brief: Used to draw graphics, on the fly, via scripting (usually JavaScript)
+- name: <caption>
+  link: https://www.w3schools.com/tags/tag_caption.asp
+  brief: Defines a table caption
+- name: <center>
+  link: https://www.w3schools.com/tags/tag_center.asp
+  brief: Not supported in HTML5. Use CSS instead.Defines centered text
+- name: <cite>
+  link: https://www.w3schools.com/tags/tag_cite.asp
+  brief: Defines the title of a work
+- name: <code>
+  link: https://www.w3schools.com/tags/tag_code.asp
+  brief: Defines a piece of computer code
+- name: <col>
+  link: https://www.w3schools.com/tags/tag_col.asp
+  brief: Specifies column properties for each column within a <colgroup> element
+- name: <colgroup>
+  link: https://www.w3schools.com/tags/tag_colgroup.asp
+  brief: Specifies a group of one or more columns in a table for formatting
+- name: <data>
+  link: https://www.w3schools.com/tags/tag_data.asp
+  brief: "Adds a machine-readable \ntranslation of a given content"
+- name: <datalist>
+  link: https://www.w3schools.com/tags/tag_datalist.asp
+  brief: Specifies a list of pre-defined options for input controls
+- name: <dd>
+  link: https://www.w3schools.com/tags/tag_dd.asp
+  brief: Defines a description/value of a term in a description list
+- name: <del>
+  link: https://www.w3schools.com/tags/tag_del.asp
+  brief: Defines text that has been deleted from a document
+- name: <details>
+  link: https://www.w3schools.com/tags/tag_details.asp
+  brief: Defines additional details that the user can view or hide
+- name: <dfn>
+  link: https://www.w3schools.com/tags/tag_dfn.asp
+  brief: Specifies a term that is going to be defined within the content
+- name: <dialog>
+  link: https://www.w3schools.com/tags/tag_dialog.asp
+  brief: Defines a dialog box or window
+- name: <dir>
+  link: https://www.w3schools.com/tags/tag_dir.asp
+  brief: Not supported in HTML5. Use <ul> instead.Defines a directory list
+- name: <div>
+  link: https://www.w3schools.com/tags/tag_div.asp
+  brief: Defines a section in a document
+- name: <dl>
+  link: https://www.w3schools.com/tags/tag_dl.asp
+  brief: Defines a description list
+- name: <dt>
+  link: https://www.w3schools.com/tags/tag_dt.asp
+  brief: Defines a term/name in a description list
+- name: <em>
+  link: https://www.w3schools.com/tags/tag_em.asp
+  brief: Defines emphasized text
+- name: <embed>
+  link: https://www.w3schools.com/tags/tag_embed.asp
+  brief: Defines a container for an external application
+- name: <fieldset>
+  link: https://www.w3schools.com/tags/tag_fieldset.asp
+  brief: Groups related elements in a form
+- name: <figcaption>
+  link: https://www.w3schools.com/tags/tag_figcaption.asp
+  brief: Defines a caption for a <figure> element
+- name: <figure>
+  link: https://www.w3schools.com/tags/tag_figure.asp
+  brief: Specifies self-contained content
+- name: <font>
+  link: https://www.w3schools.com/tags/tag_font.asp
+  brief: Not supported in HTML5. Use CSS instead.Defines font, color, and size for
+    text
+- name: <footer>
+  link: https://www.w3schools.com/tags/tag_footer.asp
+  brief: Defines a footer for a document or section
+- name: <form>
+  link: https://www.w3schools.com/tags/tag_form.asp
+  brief: Defines an HTML form for user input
+- name: <frame>
+  link: https://www.w3schools.com/tags/tag_frame.asp
+  brief: Not supported in HTML5.Defines a window (a frame) in a frameset
+- name: <frameset>
+  link: https://www.w3schools.com/tags/tag_frameset.asp
+  brief: Not supported in HTML5.Defines a set of frames
+- name: <h1> to <h6>
+  link: https://www.w3schools.com/tags/tag_hn.asp
+  brief: Defines HTML headings
+- name: <head>
+  link: https://www.w3schools.com/tags/tag_head.asp
+  brief: Contains metadata/information for the document
+- name: <header>
+  link: https://www.w3schools.com/tags/tag_header.asp
+  brief: Defines a header for a document or section
+- name: <hgroup>
+  link: https://www.w3schools.com/tags/tag_hgroup.asp
+  brief: Defines a header and related content
+- name: <hr>
+  link: https://www.w3schools.com/tags/tag_hr.asp
+  brief: Defines a thematic change in the content
+- name: <html>
+  link: https://www.w3schools.com/tags/tag_html.asp
+  brief: Defines the root of an HTML document
+- name: <i>
+  link: https://www.w3schools.com/tags/tag_i.asp
+  brief: Defines a part of text in an alternate voice or mood
+- name: <iframe>
+  link: https://www.w3schools.com/tags/tag_iframe.asp
+  brief: Defines an inline frame
+- name: <img>
+  link: https://www.w3schools.com/tags/tag_img.asp
+  brief: Defines an image
+- name: <input>
+  link: https://www.w3schools.com/tags/tag_input.asp
+  brief: Defines an input control
+- name: <ins>
+  link: https://www.w3schools.com/tags/tag_ins.asp
+  brief: Defines a text that has been inserted into a document
+- name: <kbd>
+  link: https://www.w3schools.com/tags/tag_kbd.asp
+  brief: Defines keyboard input
+- name: <label>
+  link: https://www.w3schools.com/tags/tag_label.asp
+  brief: Defines a label for an <input> element
+- name: <legend>
+  link: https://www.w3schools.com/tags/tag_legend.asp
+  brief: Defines a caption for a <fieldset> element
+- name: <li>
+  link: https://www.w3schools.com/tags/tag_li.asp
+  brief: Defines a list item
+- name: <link>
+  link: https://www.w3schools.com/tags/tag_link.asp
+  brief: "Defines the relationship between a document and an external resource (most\
+    \ \nused to link to style sheets)"
+- name: <main>
+  link: https://www.w3schools.com/tags/tag_main.asp
+  brief: Specifies the main content of a document
+- name: <map>
+  link: https://www.w3schools.com/tags/tag_map.asp
+  brief: Defines an image map
+- name: <mark>
+  link: https://www.w3schools.com/tags/tag_mark.asp
+  brief: Defines marked/highlighted text
+- name: <menu>
+  link: https://www.w3schools.com/tags/tag_menu.asp
+  brief: Defines an unordered list
+- name: <meta>
+  link: https://www.w3schools.com/tags/tag_meta.asp
+  brief: Defines metadata about an HTML document
+- name: <meter>
+  link: https://www.w3schools.com/tags/tag_meter.asp
+  brief: Defines a scalar measurement within a known range (a gauge)
+- name: <nav>
+  link: https://www.w3schools.com/tags/tag_nav.asp
+  brief: Defines navigation links
+- name: <noframes>
+  link: https://www.w3schools.com/tags/tag_noframes.asp
+  brief: Not supported in HTML5.Defines an alternate content for users that do not
+    support frames
+- name: <noscript>
+  link: https://www.w3schools.com/tags/tag_noscript.asp
+  brief: "Defines an alternate content for users that do not support \nclient-side\
+    \ scripts"
+- name: <object>
+  link: https://www.w3schools.com/tags/tag_object.asp
+  brief: Defines a container for an external application
+- name: <ol>
+  link: https://www.w3schools.com/tags/tag_ol.asp
+  brief: Defines an ordered list
+- name: <optgroup>
+  link: https://www.w3schools.com/tags/tag_optgroup.asp
+  brief: Defines a group of related options in a drop-down list
+- name: <option>
+  link: https://www.w3schools.com/tags/tag_option.asp
+  brief: Defines an option in a drop-down list
+- name: <output>
+  link: https://www.w3schools.com/tags/tag_output.asp
+  brief: Defines the result of a calculation
+- name: <p>
+  link: https://www.w3schools.com/tags/tag_p.asp
+  brief: Defines a paragraph
+- name: <param>
+  link: https://www.w3schools.com/tags/tag_param.asp
+  brief: Defines a parameter for an object
+- name: <picture>
+  link: https://www.w3schools.com/tags/tag_picture.asp
+  brief: Defines a container for multiple image resources
+- name: <pre>
+  link: https://www.w3schools.com/tags/tag_pre.asp
+  brief: Defines preformatted text
+- name: <progress>
+  link: https://www.w3schools.com/tags/tag_progress.asp
+  brief: Represents the progress of a task
+- name: <q>
+  link: https://www.w3schools.com/tags/tag_q.asp
+  brief: Defines a short quotation
+- name: <rp>
+  link: https://www.w3schools.com/tags/tag_rp.asp
+  brief: Defines what to show in browsers that do not support ruby annotations
+- name: <rt>
+  link: https://www.w3schools.com/tags/tag_rt.asp
+  brief: "Defines an explanation/pronunciation of characters (for East Asian \ntypography)"
+- name: <ruby>
+  link: https://www.w3schools.com/tags/tag_ruby.asp
+  brief: Defines a ruby annotation (for East Asian typography)
+- name: <s>
+  link: https://www.w3schools.com/tags/tag_s.asp
+  brief: Defines text that is no longer correct
+- name: <samp>
+  link: https://www.w3schools.com/tags/tag_samp.asp
+  brief: Defines sample output from a computer program
+- name: <script>
+  link: https://www.w3schools.com/tags/tag_script.asp
+  brief: Defines a client-side script
+- name: <search>
+  link: https://www.w3schools.com/tags/tag_search.asp
+  brief: Defines a search section
+- name: <section>
+  link: https://www.w3schools.com/tags/tag_section.asp
+  brief: Defines a section in a document
+- name: <select>
+  link: https://www.w3schools.com/tags/tag_select.asp
+  brief: Defines a drop-down list
+- name: <small>
+  link: https://www.w3schools.com/tags/tag_small.asp
+  brief: Defines smaller text
+- name: <source>
+  link: https://www.w3schools.com/tags/tag_source.asp
+  brief: Defines multiple media resources for media elements (<video> and <audio>)
+- name: <span>
+  link: https://www.w3schools.com/tags/tag_span.asp
+  brief: Defines a section in a document
+- name: <strike>
+  link: https://www.w3schools.com/tags/tag_strike.asp
+  brief: Not supported in HTML5. Use <del> or <s> instead.Defines strikethrough text
+- name: <strong>
+  link: https://www.w3schools.com/tags/tag_strong.asp
+  brief: Defines important text
+- name: <style>
+  link: https://www.w3schools.com/tags/tag_style.asp
+  brief: Defines style information for a document
+- name: <sub>
+  link: https://www.w3schools.com/tags/tag_sub.asp
+  brief: Defines subscripted text
+- name: <summary>
+  link: https://www.w3schools.com/tags/tag_summary.asp
+  brief: Defines a visible heading for a <details> element
+- name: <sup>
+  link: https://www.w3schools.com/tags/tag_sup.asp
+  brief: Defines superscripted text
+- name: <svg>
+  link: https://www.w3schools.com/tags/tag_svg.asp
+  brief: Defines a container for SVG graphics
+- name: <table>
+  link: https://www.w3schools.com/tags/tag_table.asp
+  brief: Defines a table
+- name: <tbody>
+  link: https://www.w3schools.com/tags/tag_tbody.asp
+  brief: Groups the body content in a table
+- name: <td>
+  link: https://www.w3schools.com/tags/tag_td.asp
+  brief: Defines a cell in a table
+- name: <template>
+  link: https://www.w3schools.com/tags/tag_template.asp
+  brief: Defines a container for content that should be hidden when the page loads
+- name: <textarea>
+  link: https://www.w3schools.com/tags/tag_textarea.asp
+  brief: Defines a multiline input control (text area)
+- name: <tfoot>
+  link: https://www.w3schools.com/tags/tag_tfoot.asp
+  brief: Groups the footer content in a table
+- name: <th>
+  link: https://www.w3schools.com/tags/tag_th.asp
+  brief: Defines a header cell in a table
+- name: <thead>
+  link: https://www.w3schools.com/tags/tag_thead.asp
+  brief: Groups the header content in a table
+- name: <time>
+  link: https://www.w3schools.com/tags/tag_time.asp
+  brief: Defines a specific time (or datetime)
+- name: <title>
+  link: https://www.w3schools.com/tags/tag_title.asp
+  brief: Defines a title for the document
+- name: <tr>
+  link: https://www.w3schools.com/tags/tag_tr.asp
+  brief: Defines a row in a table
+- name: <track>
+  link: https://www.w3schools.com/tags/tag_track.asp
+  brief: Defines text tracks for media elements (<video> and <audio>)
+- name: <tt>
+  link: https://www.w3schools.com/tags/tag_tt.asp
+  brief: Not supported in HTML5. Use CSS instead.Defines teletype text
+- name: <u>
+  link: https://www.w3schools.com/tags/tag_u.asp
+  brief: "Defines some text that is unarticulated and styled differently from normal\
+    \ \ntext"
+- name: <ul>
+  link: https://www.w3schools.com/tags/tag_ul.asp
+  brief: Defines an unordered list
+- name: <var>
+  link: https://www.w3schools.com/tags/tag_var.asp
+  brief: Defines a variable
+- name: <video>
+  link: https://www.w3schools.com/tags/tag_video.asp
+  brief: Defines embedded video content
+- name: <wbr>
+  link: https://www.w3schools.com/tags/tag_wbr.asp
+  brief: Defines a possible line-break
