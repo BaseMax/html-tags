@@ -6,8 +6,6 @@ Welcome to the **HTML Tags** repository! This project contains a comprehensive l
 
 | Tag Name      | Brief Description         | Learn More Link                 |
 |---------------|---------------------------|---------------------------------|
-| Tag Name      | Brief Description         | Learn More Link                 |
-|---------------|---------------------------|---------------------------------|
 | `<!--...-->` | Defines a comment | [Learn More](https://www.w3schools.com/tags/tag_comment.asp) |
 | `<!DOCTYPE>` | Defines the document type | [Learn More](https://www.w3schools.com/tags/tag_doctype.asp) |
 | `<a>` | Defines a hyperlink | [Learn More](https://www.w3schools.com/tags/tag_a.asp) |

@@ -24,7 +24,7 @@ def generate_table(tags):
     return table_header + table_rows
 
 def write_readme(output_path, template, table):
-    readme_content = template.replace("| `<tag_name>`  | Brief description here... | [Learn More](https://example.com) |", table)
+    readme_content = template.replace("{table}", table)
     with open(output_path, 'w', encoding='utf-8') as file:
         file.write(readme_content)
 

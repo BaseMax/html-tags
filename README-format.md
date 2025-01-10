@@ -4,9 +4,7 @@ Welcome to the **HTML Tags** repository! This project contains a comprehensive l
 
 ## Table of HTML Tags
 
-| Tag Name      | Brief Description         | Learn More Link                 |
-|---------------|---------------------------|---------------------------------|
-| `<tag_name>`  | Brief description here... | [Learn More](https://example.com) |
+{table}
 
 *The table will be dynamically updated based on the JSON data.*
 
