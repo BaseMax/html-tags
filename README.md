@@ -20,8 +20,7 @@ Welcome to the **HTML Tags** repository! This project contains a comprehensive l
 | `<b>` | Defines bold text | [Learn More](https://www.w3schools.com/tags/tag_b.asp) |
 | `<base>` | Specifies the base URL/target for all relative URLs in a document | [Learn More](https://www.w3schools.com/tags/tag_base.asp) |
 | `<basefont>` | Not supported in HTML5. Use CSS instead.Specifies a default color, size, and font for all text in a document | [Learn More](https://www.w3schools.com/tags/tag_basefont.asp) |
-| `<bdi>` | Isolates a part of text that might be formatted in a different direction 
-from other text outside it | [Learn More](https://www.w3schools.com/tags/tag_bdi.asp) |
+| `<bdi>` | Isolates a part of text that might be formatted in a different direction  from other text outside it | [Learn More](https://www.w3schools.com/tags/tag_bdi.asp) |
 | `<bdo>` | Overrides the current text direction | [Learn More](https://www.w3schools.com/tags/tag_bdo.asp) |
 | `<big>` | Not supported in HTML5. Use CSS instead.Defines big text | [Learn More](https://www.w3schools.com/tags/tag_big.asp) |
 | `<blockquote>` | Defines a section that is quoted from another source | [Learn More](https://www.w3schools.com/tags/tag_blockquote.asp) |
@@ -35,8 +34,7 @@ from other text outside it | [Learn More](https://www.w3schools.com/tags/tag_bdi
 | `<code>` | Defines a piece of computer code | [Learn More](https://www.w3schools.com/tags/tag_code.asp) |
 | `<col>` | Specifies column properties for each column within a <colgroup> element | [Learn More](https://www.w3schools.com/tags/tag_col.asp) |
 | `<colgroup>` | Specifies a group of one or more columns in a table for formatting | [Learn More](https://www.w3schools.com/tags/tag_colgroup.asp) |
-| `<data>` | Adds a machine-readable 
-translation of a given content | [Learn More](https://www.w3schools.com/tags/tag_data.asp) |
+| `<data>` | Adds a machine-readable  translation of a given content | [Learn More](https://www.w3schools.com/tags/tag_data.asp) |
 | `<datalist>` | Specifies a list of pre-defined options for input controls | [Learn More](https://www.w3schools.com/tags/tag_datalist.asp) |
 | `<dd>` | Defines a description/value of a term in a description list | [Learn More](https://www.w3schools.com/tags/tag_dd.asp) |
 | `<del>` | Defines text that has been deleted from a document | [Learn More](https://www.w3schools.com/tags/tag_del.asp) |
@@ -72,8 +70,7 @@ translation of a given content | [Learn More](https://www.w3schools.com/tags/tag
 | `<label>` | Defines a label for an <input> element | [Learn More](https://www.w3schools.com/tags/tag_label.asp) |
 | `<legend>` | Defines a caption for a <fieldset> element | [Learn More](https://www.w3schools.com/tags/tag_legend.asp) |
 | `<li>` | Defines a list item | [Learn More](https://www.w3schools.com/tags/tag_li.asp) |
-| `<link>` | Defines the relationship between a document and an external resource (most 
-used to link to style sheets) | [Learn More](https://www.w3schools.com/tags/tag_link.asp) |
+| `<link>` | Defines the relationship between a document and an external resource (most  used to link to style sheets) | [Learn More](https://www.w3schools.com/tags/tag_link.asp) |
 | `<main>` | Specifies the main content of a document | [Learn More](https://www.w3schools.com/tags/tag_main.asp) |
 | `<map>` | Defines an image map | [Learn More](https://www.w3schools.com/tags/tag_map.asp) |
 | `<mark>` | Defines marked/highlighted text | [Learn More](https://www.w3schools.com/tags/tag_mark.asp) |
@@ -82,8 +79,7 @@ used to link to style sheets) | [Learn More](https://www.w3schools.com/tags/tag_
 | `<meter>` | Defines a scalar measurement within a known range (a gauge) | [Learn More](https://www.w3schools.com/tags/tag_meter.asp) |
 | `<nav>` | Defines navigation links | [Learn More](https://www.w3schools.com/tags/tag_nav.asp) |
 | `<noframes>` | Not supported in HTML5.Defines an alternate content for users that do not support frames | [Learn More](https://www.w3schools.com/tags/tag_noframes.asp) |
-| `<noscript>` | Defines an alternate content for users that do not support 
-client-side scripts | [Learn More](https://www.w3schools.com/tags/tag_noscript.asp) |
+| `<noscript>` | Defines an alternate content for users that do not support  client-side scripts | [Learn More](https://www.w3schools.com/tags/tag_noscript.asp) |
 | `<object>` | Defines a container for an external application | [Learn More](https://www.w3schools.com/tags/tag_object.asp) |
 | `<ol>` | Defines an ordered list | [Learn More](https://www.w3schools.com/tags/tag_ol.asp) |
 | `<optgroup>` | Defines a group of related options in a drop-down list | [Learn More](https://www.w3schools.com/tags/tag_optgroup.asp) |
@@ -96,8 +92,7 @@ client-side scripts | [Learn More](https://www.w3schools.com/tags/tag_noscript.a
 | `<progress>` | Represents the progress of a task | [Learn More](https://www.w3schools.com/tags/tag_progress.asp) |
 | `<q>` | Defines a short quotation | [Learn More](https://www.w3schools.com/tags/tag_q.asp) |
 | `<rp>` | Defines what to show in browsers that do not support ruby annotations | [Learn More](https://www.w3schools.com/tags/tag_rp.asp) |
-| `<rt>` | Defines an explanation/pronunciation of characters (for East Asian 
-typography) | [Learn More](https://www.w3schools.com/tags/tag_rt.asp) |
+| `<rt>` | Defines an explanation/pronunciation of characters (for East Asian  typography) | [Learn More](https://www.w3schools.com/tags/tag_rt.asp) |
 | `<ruby>` | Defines a ruby annotation (for East Asian typography) | [Learn More](https://www.w3schools.com/tags/tag_ruby.asp) |
 | `<s>` | Defines text that is no longer correct | [Learn More](https://www.w3schools.com/tags/tag_s.asp) |
 | `<samp>` | Defines sample output from a computer program | [Learn More](https://www.w3schools.com/tags/tag_samp.asp) |
@@ -128,8 +123,7 @@ typography) | [Learn More](https://www.w3schools.com/tags/tag_rt.asp) |
 | `<tr>` | Defines a row in a table | [Learn More](https://www.w3schools.com/tags/tag_tr.asp) |
 | `<track>` | Defines text tracks for media elements (<video> and <audio>) | [Learn More](https://www.w3schools.com/tags/tag_track.asp) |
 | `<tt>` | Not supported in HTML5. Use CSS instead.Defines teletype text | [Learn More](https://www.w3schools.com/tags/tag_tt.asp) |
-| `<u>` | Defines some text that is unarticulated and styled differently from normal 
-text | [Learn More](https://www.w3schools.com/tags/tag_u.asp) |
+| `<u>` | Defines some text that is unarticulated and styled differently from normal  text | [Learn More](https://www.w3schools.com/tags/tag_u.asp) |
 | `<ul>` | Defines an unordered list | [Learn More](https://www.w3schools.com/tags/tag_ul.asp) |
 | `<var>` | Defines a variable | [Learn More](https://www.w3schools.com/tags/tag_var.asp) |
 | `<video>` | Defines embedded video content | [Learn More](https://www.w3schools.com/tags/tag_video.asp) |

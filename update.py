@@ -13,8 +13,8 @@ def read_template(file_path):
         return file.read()
 
 def sanitize_text(text):
-    """Replace '|' with '/' to avoid issues in table formatting."""
-    return text.replace('|', '/')
+    """Replace '|' with '/', '\n' with ' ' to avoid issues in table formatting."""
+    return text.replace('|', '\|').replace('\n', ' ')
 
 def generate_table(tags):
     table_header = "| Tag Name      | Brief Description         | Learn More Link                 |\n"
